@@ -50,12 +50,7 @@ public class ModuleDetailActivity extends AppCompatActivity {
         char ven3 = intentReceived.getCharExtra("ven3", 'Z');
         tvVenue.setText("Venue: " + ven1 + ven2 + ven3 );
 
-        tvBack.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                finish();
-            }
-        });
+
 
 
     }
