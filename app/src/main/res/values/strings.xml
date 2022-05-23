@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyModules</string>
+    <string name="module1">C346 Android Programming</string>
+    <string name="module2">C349 iPad Programming</string>
+    <string name="module_code">Module Code: C346</string>
+    <string name="module_name">Module Name: Android Programming</string>
+</resources>
